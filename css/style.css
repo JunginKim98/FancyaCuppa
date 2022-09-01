@@ -303,7 +303,7 @@ a.active {
 #home {
 		background: url(../img/bg.jpg);
 		background-size: cover;
-		height: 150vh;
+		height: 100vh;
 		
 }
 @media only screen and (min-width:1200px) {
@@ -326,7 +326,7 @@ a.active {
 	}
 	.table-cell h1{
 		color:#ADC18C;
-		padding:100px 0 0 0px;
+		padding:130px 0 0 0px;
         font-size: 90px;
         line-height: 110px;
 	}
